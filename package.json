@@ -1,0 +1,14 @@
+{
+  "name": "frthjf.com",
+  "version": "1.0.0",
+  "description": "Frithjof Gressmann's website",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "author": "Frithjof Gressmann",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.32"
+  }
+}
