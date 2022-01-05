@@ -30,7 +30,8 @@ export default defineUserConfig<DefaultThemeOptions>({
             'link': 'README.md',
         }],
         themePlugins: {
-            externalLinkIcon: false
+            externalLinkIcon: false,
+            git: false
         }
     },
 })
