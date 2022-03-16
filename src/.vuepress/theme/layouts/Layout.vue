@@ -15,6 +15,15 @@
         <li>
           <a
             class="sidebar-item"
+            href="https://drive.google.com/file/d/1NAvtlORsC4J1961VoOO6FLPN2V1FHUZk/view?usp=sharing"
+            target="_blank"
+          >
+            CV
+          </a>
+        </li>
+        <li>
+          <a
+            class="sidebar-item"
             href="https://github.com/frthjf"
             target="_blank"
           >
@@ -28,6 +37,15 @@
             target="_blank"
           >
             <span>Google Scholar</span>
+          </a>
+        </li>
+        <li>
+          <a
+            class="sidebar-item"
+            href="https://www.linkedin.com/in/frithjof-gressmann-6a1606229/"
+            target="_blank"
+          >
+            <span>LinkedIn</span>
           </a>
         </li>
       </ul>
