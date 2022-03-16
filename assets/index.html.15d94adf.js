@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"Home",lang:"en-US",frontmatter:{title:"Home",description:"Frithjof Gressmann's website"},excerpt:"",headers:[],filePathRelative:"README.md"};export{e as data};
